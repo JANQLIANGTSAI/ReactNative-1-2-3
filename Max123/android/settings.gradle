@@ -1,0 +1,3 @@
+rootProject.name = 'Max123'
+
+include ':app'
